@@ -1,0 +1,3 @@
+C:\Users\kai\Desktop\Bombard\Bombard\BombardContent\obj\x86\Release\BombardContent.contentprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\作品\K017A1680_張雲開１\Bombard\プロジェクト\Bombard\BombardContent\obj\x86\Release\BombardContent.contentprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\就职\作品\個人2回目ーBombard\プロジェクト\Bombard\BombardContent\obj\x86\Release\BombardContent.contentprojResolveAssemblyReference.cache

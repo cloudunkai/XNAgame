@@ -1,0 +1,112 @@
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\obj\x86\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\obj\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Action\branches\0704シーン管理\MyLib\obj\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\obj\x86\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\obj\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Action\branches\0707マップテスト\MyLib\obj\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\kai\Desktop\0707マップテスト\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\kai\Desktop\0707マップテスト\MyLib\obj\x86\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\0707マップテスト\MyLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kai\Desktop\0707マップテスト\MyLib\obj\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\0707マップテスト\MyLib\obj\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\kai\Desktop\Raven\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\kai\Desktop\Raven\MyLib\obj\x86\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\Raven\MyLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kai\Desktop\Raven\MyLib\obj\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Raven\MyLib\obj\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\kai\Desktop\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\kai\Desktop\Raven - コピー\MyLib\obj\x86\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\Raven - コピー\MyLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kai\Desktop\Raven - コピー\MyLib\obj\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\Raven - コピー\MyLib\obj\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\obj\x86\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\obj\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\新しいフォルダー\Raven - コピー\MyLib\obj\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\MyLib.pdb
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\obj\x86\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\obj\x86\Debug\MyLib.dll
+C:\Users\kai\Desktop\xnagame\Raven1\MyLib\obj\x86\Debug\MyLib.pdb
